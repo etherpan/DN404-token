@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-import "../DN404.sol";
-import "../DN404Mirror.sol";
-import {Ownable} from "../lib/Ownable.sol";
-import {LibString} from "../lib/LibString.sol";
-import {SafeTransferLib} from "../lib/SafeTransferLib.sol";
+import "./DN404.sol";
+import "./DN404Mirror.sol";
+import {Ownable} from "./Ownable.sol";
+import {LibString} from "./LibString.sol";
+import {SafeTransferLib} from "./SafeTransferLib.sol";
 
 /**
  * @title SimpleDN404
